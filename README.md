@@ -2,10 +2,12 @@
 
 This is a demo application to get started with angular.js
 
-Please be prepared:
+# Please be prepared:
 
 - Install node https://nodejs.org/en/
 - check `node -v` `npm -v`
+- - `npm install -g nodemon` useful tool to restarting a server when a file changed
+- git clone https://github.com/paszin/welcomeangular.git --branch start --single-branch
 
 
 ## Useful Resources

@@ -6,7 +6,8 @@ This is a demo application to get started with angular.js
 
 - Install node https://nodejs.org/en/
 - check `node -v` `npm -v`
-- - `npm install -g nodemon` useful tool to restarting a server when a file changed
+-  `npm install -g nodemon` useful tool to restarting a server when a file changed
+- `npm install -g bower` yes, another package manager
 - git clone https://github.com/paszin/welcomeangular.git --branch start --single-branch
 
 

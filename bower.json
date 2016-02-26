@@ -1,0 +1,14 @@
+{
+  "name": "mytodolist",
+  "description": "enjoy building your angular app",
+  "authors": [
+    "your name"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}
